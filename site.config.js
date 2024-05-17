@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Benedict Debrah",
     image: "/notion-avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Data Scientist",
-    bio: "I am currently working as a Machine Learning Engineer at Soccersm",
+    bio: "Connecting the dots",
     email: "benedictdebrah.o@gmail.com",
     linkedin: "kwamepuni",
     github: "benedictdebrah",
@@ -19,11 +19,11 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Benedict's Blog",
-    description: "welcome to Benedicts's Blog!",
+    description: "welcome to Benedict's Blog!",
   },
 
   // CONFIG configration (required)
-  link: "https://bende.vercel.app",
+  link: "https://github.com/benedictdebrah/bende",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
