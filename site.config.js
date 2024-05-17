@@ -9,6 +9,13 @@ const CONFIG = {
     linkedin: "kwamepuni",
     github: "benedictdebrah",
     instagram: "",
+    fontStyle: {
+      fontFamily: "Arial",
+      fontSize: "16px",
+      fontWeight: "normal",
+      fontStyle: "normal", // Ensure the font style is normal (not italicized)
+      // Add other font styles as needed
+    },
   },
   projects: [
     {
@@ -23,7 +30,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://bende.vercel.app",
+  link: "https://github.com/benedictdebrah/bende",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
