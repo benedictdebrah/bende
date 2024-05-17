@@ -9,13 +9,6 @@ const CONFIG = {
     linkedin: "kwamepuni",
     github: "benedictdebrah",
     instagram: "",
-    fontStyle: {
-      fontFamily: "Arial",
-      fontSize: "16px",
-      fontWeight: "normal",
-      fontStyle: "normal", // Ensure the font style is normal (not italicized)
-      // Add other font styles as needed
-    },
   },
   projects: [
     {
