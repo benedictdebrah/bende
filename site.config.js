@@ -1,7 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
+<<<<<<< HEAD
     name: "Benedict",
+=======
+    name: "Benedict Debrah",
+>>>>>>> d785729e28d76abce402021fc8b83e96acc8df1a
     image: "/notion-avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Data Scientist",
     bio: "Connecting the dots",
